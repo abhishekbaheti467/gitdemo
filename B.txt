@@ -1,1 +1,2 @@
 Hi this is B file
+this is to test pull command
